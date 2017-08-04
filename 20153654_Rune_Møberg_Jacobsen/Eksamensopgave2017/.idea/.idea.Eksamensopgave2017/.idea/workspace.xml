@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5336a63-1aed-4147-ae8a-488fc2ce4baf" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="StregsystemCLI.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/StregsystemCLI.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding>
+                <marker date="1493935678488" expanded="true" signature="6:32" ph="..." />
+                <marker date="1493935678488" expanded="true" signature="62:6050" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="106:6048" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="121:453" ph="Private Members" />
+                <marker date="1493935678488" expanded="true" signature="154:273" ph="/// Is true if the program is running, turns false in &lt;see cref=&quot;Close&quot;/&gt;  ... " />
+                <marker date="1493935678488" expanded="true" signature="313:390" ph="/// Reference to the stregsystem ... " />
+                <marker date="1493935678488" expanded="true" signature="463:852" ph="Constructors" />
+                <marker date="1493935678488" expanded="true" signature="493:608" ph="/// Default Constructor ... " />
+                <marker date="1493935678488" expanded="true" signature="664:832" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="862:1053" ph="Events" />
+                <marker date="1493935678488" expanded="true" signature="886:979" ph="/// Event that is raised when command is entered ... " />
+                <marker date="1493935678488" expanded="true" signature="1063:5662" ph="Public Methods" />
+                <marker date="1493935678488" expanded="true" signature="1095:1225" ph="/// The start method keeps the system runnung and prints the menu and awaits commands ... " />
+                <marker date="1493935678488" expanded="true" signature="1253:1448" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="1458:1607" ph="/// Method that when called sets the running field to false and breaks the loop in &lt;see cref=&quot;Start()&quot;/&gt; ... " />
+                <marker date="1493935678488" expanded="true" signature="1666:1819" ph="/// Displays the message if the admin commmand was not found ... " />
+                <marker date="1493935678488" expanded="true" signature="1895:1991" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="2001:2136" ph="/// Display a general error in the terminal ... " />
+                <marker date="1493935678488" expanded="true" signature="2196:2283" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="2293:2530" ph="/// Display a message describing the buyer and the product that did not succeed because of insufficient cash  ... " />
+                <marker date="1493935678488" expanded="true" signature="2602:2732" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="2742:2889" ph="/// Displays a message of a product that could not be found ... " />
+                <marker date="1493935678488" expanded="true" signature="2948:3027" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="3037:3192" ph="/// Displays a message if two many arguments was given in a command ... " />
+                <marker date="1493935678488" expanded="true" signature="3257:3365" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="3375:3504" ph="/// Displays a succesfull transaction ... " />
+                <marker date="1493935678488" expanded="true" signature="3575:3658" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="3668:3865" ph="/// Displays a succesfull transaction and the amount of products ... " />
+                <marker date="1493935678488" expanded="true" signature="3947:4032" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="4042:4163" ph="/// Display information about a user ... " />
+                <marker date="1493935678488" expanded="true" signature="4210:4488" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="4498:4662" ph="/// Display a message showing if a user is not found and the given username ... " />
+                <marker date="1493935678488" expanded="true" signature="4719:4814" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="4824:4903" ph="/// Prints out all active products ... " />
+                <marker date="1493935678488" expanded="true" signature="4937:5276" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="5286:5457" ph="/// Displays  a message of the user balance ... " />
+                <marker date="1493935678488" expanded="true" signature="5531:5642" ph="{...}" />
+                <marker date="1493935678488" expanded="true" signature="5672:6042" ph="Protected Methods" />
+                <marker date="1493935678488" expanded="true" signature="5707:5893" ph="/// Method to invoke the command entered event (raise). Is checked for subscribers before invoking ... " />
+                <marker date="1493935678488" expanded="true" signature="5957:6022" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/User.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7200">
+              <caret line="200" column="22" lean-forward="false" selection-start-line="200" selection-start-column="22" selection-end-line="200" selection-end-column="22" />
+              <folding>
+                <marker date="1493936521011" expanded="true" signature="6:32" ph="..." />
+                <marker date="1493936521011" expanded="true" signature="62:7168" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="69:255" ph="/// The delegate for the User balance event ... " />
+                <marker date="1493936521011" expanded="true" signature="376:7166" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="391:1172" ph="Private members" />
+                <marker date="1493936521011" expanded="true" signature="424:498" ph="/// The static user id number ... " />
+                <marker date="1493936521011" expanded="true" signature="546:620" ph="/// Holds the private user ID ... " />
+                <marker date="1493936521011" expanded="true" signature="658:743" ph="/// The validated first name of the user ... " />
+                <marker date="1493936521011" expanded="true" signature="787:871" ph="/// The validated last name of the user ... " />
+                <marker date="1493936521011" expanded="true" signature="914:998" ph="/// The validated user name of the user ... " />
+                <marker date="1493936521011" expanded="true" signature="1041:1121" ph="/// The validated email of the user ... " />
+                <marker date="1493936521011" expanded="true" signature="1182:1832" ph="Constructors" />
+                <marker date="1493936521011" expanded="true" signature="1212:1497" ph="/// Default Constructor ... " />
+                <marker date="1493936521011" expanded="true" signature="1600:1812" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="1842:3824" ph="Public Properties" />
+                <marker date="1493936521011" expanded="true" signature="1877:1957" ph="/// The property to get the user id ... " />
+                <marker date="1493936521011" expanded="true" signature="2005:2099" ph="/// Property validating first name to not be null ... " />
+                <marker date="1493936521011" expanded="true" signature="2131:2400" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="2196:2390" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="2410:2504" ph="/// Property validating first name to not be null ... " />
+                <marker date="1493936521011" expanded="true" signature="2535:2802" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="2599:2792" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="2812:2894" ph="/// Property validating the user name ... " />
+                <marker date="1493936521011" expanded="true" signature="2925:3235" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="2989:3225" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="3245:3370" ph="/// Holds the email of the user validates by &lt;see cref=&quot;IsEmailValid(string)&quot;/&gt;  ... " />
+                <marker date="1493936521011" expanded="true" signature="3398:3651" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="3459:3641" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="3661:3759" ph="/// Property handling access to the money of the user ... " />
+                <marker date="1493936521011" expanded="true" signature="3834:4952" ph="Public Methods" />
+                <marker date="1493936521011" expanded="true" signature="3866:3999" ph="/// Overriden to string method ... " />
+                <marker date="1493936521011" expanded="true" signature="4041:4117" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="4127:4270" ph="/// Overriden Equals method ... " />
+                <marker date="1493936521011" expanded="true" signature="4318:4500" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="4510:4619" ph="/// Overriden GetHashCode method ... " />
+                <marker date="1493936521011" expanded="true" signature="4696:4856" ph="/// Compares users to eachother by user id ... " />
+                <marker date="1493936521011" expanded="true" signature="4962:7160" ph="Private Methods" />
+                <marker date="1493936521011" expanded="true" signature="4995:5262" ph="/// Divides email into local-part and domain, and calls &lt;see cref=&quot;IsLocalPartValid(string)&quot;/&gt; and &lt;see cref=&quot;IsD ... " />
+                <marker date="1493936521011" expanded="true" signature="5310:5538" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="5548:5838" ph="/// Validates the local part of the email and returns false if it is not lower case,  ... " />
+                <marker date="1493936521011" expanded="true" signature="5894:6016" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="6026:6393" ph="/// Validates the local part of the email and returns false if it is not lower case, ... " />
+                <marker date="1493936521011" expanded="true" signature="6443:6763" ph="{...}" />
+                <marker date="1493936521011" expanded="true" signature="6773:7022" ph="/// Method that valuates a given character upon different parameters of characters ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertCashTransaction.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/Transactions/InsertCashTransaction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1493936520956" expanded="true" signature="28:996" ph="{...}" />
+                <marker date="1493936520956" expanded="true" signature="83:994" ph="{...}" />
+                <marker date="1493936520956" expanded="true" signature="98:487" ph="Constructors" />
+                <marker date="1493936520956" expanded="true" signature="128:247" ph="/// Default Constructor ... " />
+                <marker date="1493936520956" expanded="true" signature="400:467" ph="{...}" />
+                <marker date="1493936520956" expanded="true" signature="497:988" ph="Public Methods" />
+                <marker date="1493936520956" expanded="true" signature="529:626" ph="/// Method that executes the insert cash transaction ... " />
+                <marker date="1493936520956" expanded="true" signature="665:732" ph="{...}" />
+                <marker date="1493936520956" expanded="true" signature="742:849" ph="/// Overriden To string method ... " />
+                <marker date="1493936520956" expanded="true" signature="891:968" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stregsystem.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/Stregsystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="205" column="47" lean-forward="true" selection-start-line="205" selection-start-column="47" selection-end-line="205" selection-end-column="47" />
+              <folding>
+                <marker date="1493936517348" expanded="true" signature="6:66" ph="..." />
+                <marker date="1493936517348" expanded="true" signature="96:7931" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="103:228" ph="/// Delegate for the command typed in by the user ... " />
+                <marker date="1493936517348" expanded="true" signature="329:7929" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="344:1267" ph="Private Members" />
+                <marker date="1493936517348" expanded="true" signature="377:453" ph="/// List of users in the system ... " />
+                <marker date="1493936517348" expanded="true" signature="522:601" ph="/// List of products in the system ... " />
+                <marker date="1493936517348" expanded="true" signature="679:776" ph="/// List of all transactions conducted in the System ... " />
+                <marker date="1493936517348" expanded="true" signature="865:948" ph="/// Hold an instance of a product file ... " />
+                <marker date="1493936517348" expanded="true" signature="999:1079" ph="/// Hold an instance of a user file ... " />
+                <marker date="1493936517348" expanded="true" signature="1127:1201" ph="/// Log file for transactions ... " />
+                <marker date="1493936517348" expanded="true" signature="1277:1743" ph="Constructors" />
+                <marker date="1493936517348" expanded="true" signature="1307:1375" ph="/// Default Constructor ... " />
+                <marker date="1493936517348" expanded="true" signature="1404:1715" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="1753:1999" ph="Public Properties" />
+                <marker date="1493936517348" expanded="true" signature="1788:1887" ph="/// Enumerable containing all products that are active ... " />
+                <marker date="1493936517348" expanded="true" signature="2009:2219" ph="Events" />
+                <marker date="1493936517348" expanded="true" signature="2033:2134" ph="/// The event to be raised if the user has a low balance ... " />
+                <marker date="1493936517348" expanded="true" signature="2229:5181" ph="Public Methods" />
+                <marker date="1493936517348" expanded="true" signature="2261:2478" ph="/// Takes a user and an amount and returns the transaction ... " />
+                <marker date="1493936517348" expanded="true" signature="2558:2787" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="2797:3016" ph="/// Takes a user and a product and returns a BuyTransaction ... " />
+                <marker date="1493936517348" expanded="true" signature="3085:3393" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="3403:3574" ph="/// Returns a product when receiving a product ID ... " />
+                <marker date="1493936517348" expanded="true" signature="3627:3856" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="3866:4112" ph="/// Returns a enumerable of transactions of a user and a specified number of transaction ... " />
+                <marker date="1493936517348" expanded="true" signature="4190:4399" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="4409:4582" ph="/// By giving a usre name the methods returns a user ... " />
+                <marker date="1493936517348" expanded="true" signature="4637:4839" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="4849:5026" ph="/// Returns a user that lives up to the given predicate ... " />
+                <marker date="1493936517348" expanded="true" signature="5082:5161" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="5191:7923" ph="Private Methods" />
+                <marker date="1493936517348" expanded="true" signature="5224:5348" ph="/// Executes a given transaction ... " />
+                <marker date="1493936517348" expanded="true" signature="5413:5725" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="5439:5506" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="5555:5606" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="5735:5951" ph="/// Gets the products from a file and fill them into a list ... " />
+                <marker date="1493936517348" expanded="true" signature="5994:6370" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="6380:6584" ph="/// Takes an array of product information and returns a list of product objects ... " />
+                <marker date="1493936517348" expanded="true" signature="6677:6967" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="6977:7177" ph="/// Gets the products from a file an fill them into a list. ... " />
+                <marker date="1493936517348" expanded="true" signature="7218:7489" ph="{...}" />
+                <marker date="1493936517348" expanded="true" signature="7499:7697" ph="/// Takes an array of product information and returns a list of user objects ... " />
+                <marker date="1493936517348" expanded="true" signature="7777:7903" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <marker date="1493936520901" expanded="true" signature="0:165" ph="/* Studienummer_fuldt_navn &lt;- her skriver du dit studienummer og fulde navn som kommentar. Det skal være det førs ... */" />
+                <marker date="1493936520901" expanded="true" signature="195:520" ph="{...}" />
+                <marker date="1493936520901" expanded="true" signature="215:518" ph="{...}" />
+                <marker date="1493936520901" expanded="true" signature="261:512" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringCleaner.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/StringCleaner.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <folding>
+                <marker date="1493936521040" expanded="true" signature="6:56" ph="..." />
+                <marker date="1493936521040" expanded="true" signature="86:539" ph="{...}" />
+                <marker date="1493936521040" expanded="true" signature="126:537" ph="{...}" />
+                <marker date="1493936521040" expanded="true" signature="236:332" ph="{...}" />
+                <marker date="1493936521040" expanded="true" signature="416:531" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileHandler.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/FileHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <folding>
+                <marker date="1493936520986" expanded="true" signature="6:83" ph="..." />
+                <marker date="1493936520986" expanded="true" signature="113:2447" ph="{...}" />
+                <marker date="1493936520986" expanded="true" signature="144:2445" ph="{...}" />
+                <marker date="1493936520986" expanded="true" signature="159:312" ph="Private Members" />
+                <marker date="1493936520986" expanded="true" signature="192:258" ph="/// Path for the file ... " />
+                <marker date="1493936520986" expanded="true" signature="322:582" ph="Constructors" />
+                <marker date="1493936520986" expanded="true" signature="352:464" ph="/// Default Constructor ... " />
+                <marker date="1493936520986" expanded="true" signature="508:562" ph="{...}" />
+                <marker date="1493936520986" expanded="true" signature="592:801" ph="Public Properties" />
+                <marker date="1493936520986" expanded="true" signature="627:710" ph="/// Gets the number of lines in a file ... " />
+                <marker date="1493936520986" expanded="true" signature="811:1963" ph="Public Methods" />
+                <marker date="1493936520986" expanded="true" signature="843:1047" ph="/// Returns all lines of a file with each cell of the csv in an string[] Enumerable ... " />
+                <marker date="1493936520986" expanded="true" signature="1121:1213" ph="{...}" />
+                <marker date="1493936520986" expanded="true" signature="1223:1350" ph="/// Append a string to the end of a text file ... " />
+                <marker date="1493936520986" expanded="true" signature="1399:1487" ph="{...}" />
+                <marker date="1493936520986" expanded="true" signature="1497:1745" ph="/// Returns an Enumerable string array where each array have an instance of a given string ... " />
+                <marker date="1493936520986" expanded="true" signature="1832:1943" ph="{...}" />
+                <marker date="1493936520986" expanded="true" signature="1973:2439" ph="Private Methods" />
+                <marker date="1493936520986" expanded="true" signature="2006:2139" ph="/// Reads all line from a file into an string Enumerable ... " />
+                <marker date="1493936520986" expanded="true" signature="2196:2265" ph="{...}" />
+                <marker date="1493936520986" expanded="true" signature="2337:2411" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeasonalProduct.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/Products/SeasonalProduct.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding>
+                <marker date="1493936520930" expanded="true" signature="43:2037" ph="{...}" />
+                <marker date="1493936520930" expanded="true" signature="88:2035" ph="{...}" />
+                <marker date="1493936520930" expanded="true" signature="104:437" ph="Private Fields" />
+                <marker date="1493936520930" expanded="true" signature="136:226" ph="/// Validated date of the start of the season ... " />
+                <marker date="1493936520930" expanded="true" signature="278:368" ph="/// Validated date of the start of the season ... " />
+                <marker date="1493936520930" expanded="true" signature="447:1190" ph="Constructors" />
+                <marker date="1493936520930" expanded="true" signature="477:813" ph="/// Default Constructor ... " />
+                <marker date="1493936520930" expanded="true" signature="1028:1170" ph="{...}" />
+                <marker date="1493936520930" expanded="true" signature="1200:2029" ph="Public Properties" />
+                <marker date="1493936520930" expanded="true" signature="1235:1334" ph="/// The date of the start of the season of the product ... " />
+                <marker date="1493936520930" expanded="true" signature="1374:1628" ph="{...}" />
+                <marker date="1493936520930" expanded="true" signature="1445:1618" ph="{...}" />
+                <marker date="1493936520930" expanded="true" signature="1638:1720" ph="/// The date of the end of the season ... " />
+                <marker date="1493936520930" expanded="true" signature="1758:2009" ph="{...}" />
+                <marker date="1493936520930" expanded="true" signature="1827:1999" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/Products/Product.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding>
+                <marker date="1493936521066" expanded="true" signature="43:2465" ph="{...}" />
+                <marker date="1493936521066" expanded="true" signature="70:2463" ph="{...}" />
+                <marker date="1493936521066" expanded="true" signature="85:372" ph="Private Members" />
+                <marker date="1493936521066" expanded="true" signature="118:208" ph="/// The name of the product, that is not null ... " />
+                <marker date="1493936521066" expanded="true" signature="247:320" ph="/// The price of the product ... " />
+                <marker date="1493936521066" expanded="true" signature="382:893" ph="Constructors" />
+                <marker date="1493936521066" expanded="true" signature="412:658" ph="/// Default Constructor ... " />
+                <marker date="1493936521066" expanded="true" signature="737:873" ph="{...}" />
+                <marker date="1493936521066" expanded="true" signature="903:2156" ph="Public Properties" />
+                <marker date="1493936521066" expanded="true" signature="938:1027" ph="/// Accessor for the Product ID, is ReadOnly ... " />
+                <marker date="1493936521066" expanded="true" signature="1075:1163" ph="/// Property validating name not to be null ... " />
+                <marker date="1493936521066" expanded="true" signature="1190:1449" ph="{...}" />
+                <marker date="1493936521066" expanded="true" signature="1250:1439" ph="{...}" />
+                <marker date="1493936521066" expanded="true" signature="1459:1532" ph="/// The price of the product ... " />
+                <marker date="1493936521066" expanded="true" signature="1561:1784" ph="{...}" />
+                <marker date="1493936521066" expanded="true" signature="1622:1774" ph="{...}" />
+                <marker date="1493936521066" expanded="true" signature="1794:1890" ph="/// Is true if a product is active, and can be sold ... " />
+                <marker date="1493936521066" expanded="true" signature="1941:2074" ph="/// Is true if the product is possible to buy if the user have no money on their account ... " />
+                <marker date="1493936521066" expanded="true" signature="2166:2457" ph="Public Methods" />
+                <marker date="1493936521066" expanded="true" signature="2198:2321" ph="/// Overridden ToString() method for a product ... " />
+                <marker date="1493936521066" expanded="true" signature="2363:2437" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IStregsystemUI.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/Interfaces/IStregsystemUI.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+              <folding>
+                <marker date="1493663337719" expanded="true" signature="28:706" ph="{...}" />
+                <marker date="1493663337719" expanded="true" signature="66:704" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Eksamensopgave2017/StregsystemController.cs" />
+        <option value="$PROJECT_DIR$/Eksamensopgave2017/Program.cs" />
+        <option value="$PROJECT_DIR$/Eksamensopgave2017/Transactions/Transaction.cs" />
+        <option value="$PROJECT_DIR$/Eksamensopgave2017/Products/Product.cs" />
+        <option value="$PROJECT_DIR$/Eksamensopgave2017/Products/SeasonalProduct.cs" />
+        <option value="$PROJECT_DIR$/Eksamensopgave2017/FileHandler.cs" />
+        <option value="$PROJECT_DIR$/Eksamensopgave2017/StringCleaner.cs" />
+        <option value="$PROJECT_DIR$/Eksamensopgave2017/Stregsystem.cs" />
+        <option value="$PROJECT_DIR$/Eksamensopgave2017/User.cs" />
+        <option value="$PROJECT_DIR$/Eksamensopgave2017/Transactions/InsertCashTransaction.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-16" />
+    <option name="y" value="-16" />
+    <option name="width" value="3232" />
+    <option name="height" value="1832" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Eksamensopgave2017 (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Eksamensopgave2017" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5336a63-1aed-4147-ae8a-488fc2ce4baf" name="Default" comment="" />
+      <created>1493935534263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493935534263</updated>
+      <workItem from="1493935538250" duration="983000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="983000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="-16" width="3232" height="1832" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.106875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956687" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/StregsystemController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="116" column="21" lean-forward="false" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
+          <folding>
+            <marker date="1493936259849" expanded="false" signature="6:66" ph="..." />
+            <marker date="1493936259849" expanded="true" signature="96:5191" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="137:5189" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="152:701" ph="Private Members" />
+            <marker date="1493936259849" expanded="true" signature="185:265" ph="/// Reference to the user interface ... " />
+            <marker date="1493936259849" expanded="true" signature="310:387" ph="/// Reference to the stregsystem ... " />
+            <marker date="1493936259849" expanded="true" signature="429:567" ph="/// Dictionary for the admin commands. It is populated in &lt;see cref=&quot;PopulateAdminCommands&quot;/&gt; ... " />
+            <marker date="1493936259849" expanded="true" signature="712:1153" ph="Constructors" />
+            <marker date="1493936259849" expanded="true" signature="742:895" ph="/// Default constructor ... " />
+            <marker date="1493936259849" expanded="true" signature="977:1133" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="1212:2729" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="1395:1506" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="1535:1733" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="1784:1892" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="1934:2065" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="2110:2244" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="2285:2386" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="2422:2558" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="2596:2718" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="2739:2921" ph="/// Parses a string array of admin commands into dictionary &lt;see cref=&quot;_adminCommands&quot;/&gt;  ... " />
+            <marker date="1493936259849" expanded="true" signature="2983:3080" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="3148:4338" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="3199:4328" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="4057:4287" ph="{...}" />
+            <marker date="1493936259849" expanded="true" signature="4348:4450" ph="/// Method to populate the dictionary with admin commands ... " />
+            <marker date="1493936259849" expanded="true" signature="4495:5183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/Transactions/Transaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding>
+            <marker date="1493936293657" expanded="true" signature="43:2282" ph="{...}" />
+            <marker date="1493936293657" expanded="true" signature="83:2280" ph="{...}" />
+            <marker date="1493936293657" expanded="true" signature="98:266" ph="Private Members" />
+            <marker date="1493936293657" expanded="true" signature="131:207" ph="/// The user of the transaction ... " />
+            <marker date="1493936293657" expanded="true" signature="276:714" ph="Constructors" />
+            <marker date="1493936293657" expanded="true" signature="306:425" ph="/// Default Constructor ... " />
+            <marker date="1493936293657" expanded="true" signature="509:694" ph="{...}" />
+            <marker date="1493936293657" expanded="true" signature="724:1648" ph="Public properties" />
+            <marker date="1493936293657" expanded="true" signature="760:840" ph="/// Accessor for the transaction ID ... " />
+            <marker date="1493936293657" expanded="true" signature="892:975" ph="/// Amount to be inserted or withdrawn ... " />
+            <marker date="1493936293657" expanded="true" signature="1039:1169" ph="/// Property for the user making an transaction, validating that the user is not null ... " />
+            <marker date="1493936293657" expanded="true" signature="1205:1471" ph="{...}" />
+            <marker date="1493936293657" expanded="true" signature="1276:1461" ph="{...}" />
+            <marker date="1493936293657" expanded="true" signature="1481:1564" ph="/// Holds the date for the transaction ... " />
+            <marker date="1493936293657" expanded="true" signature="1658:2274" ph="Public Methods" />
+            <marker date="1493936293657" expanded="true" signature="1690:1805" ph="/// An abstract class demanding an implementation of an Execute method ... " />
+            <marker date="1493936293657" expanded="true" signature="1855:2015" ph="/// Overriden ToString() ... " />
+            <marker date="1493936293657" expanded="true" signature="2057:2254" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/Interfaces/IStregsystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <marker date="1493588702806" expanded="true" signature="6:47" ph="..." />
+            <marker date="1493588702806" expanded="true" signature="77:593" ph="{...}" />
+            <marker date="1493588702806" expanded="true" signature="113:591" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/Interfaces/IStregsystemUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding>
+            <marker date="1493663337719" expanded="true" signature="28:706" ph="{...}" />
+            <marker date="1493663337719" expanded="true" signature="66:704" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/Products/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding>
+            <marker date="1493936521066" expanded="true" signature="43:2465" ph="{...}" />
+            <marker date="1493936521066" expanded="true" signature="70:2463" ph="{...}" />
+            <marker date="1493936521066" expanded="true" signature="85:372" ph="Private Members" />
+            <marker date="1493936521066" expanded="true" signature="118:208" ph="/// The name of the product, that is not null ... " />
+            <marker date="1493936521066" expanded="true" signature="247:320" ph="/// The price of the product ... " />
+            <marker date="1493936521066" expanded="true" signature="382:893" ph="Constructors" />
+            <marker date="1493936521066" expanded="true" signature="412:658" ph="/// Default Constructor ... " />
+            <marker date="1493936521066" expanded="true" signature="737:873" ph="{...}" />
+            <marker date="1493936521066" expanded="true" signature="903:2156" ph="Public Properties" />
+            <marker date="1493936521066" expanded="true" signature="938:1027" ph="/// Accessor for the Product ID, is ReadOnly ... " />
+            <marker date="1493936521066" expanded="true" signature="1075:1163" ph="/// Property validating name not to be null ... " />
+            <marker date="1493936521066" expanded="true" signature="1190:1449" ph="{...}" />
+            <marker date="1493936521066" expanded="true" signature="1250:1439" ph="{...}" />
+            <marker date="1493936521066" expanded="true" signature="1459:1532" ph="/// The price of the product ... " />
+            <marker date="1493936521066" expanded="true" signature="1561:1784" ph="{...}" />
+            <marker date="1493936521066" expanded="true" signature="1622:1774" ph="{...}" />
+            <marker date="1493936521066" expanded="true" signature="1794:1890" ph="/// Is true if a product is active, and can be sold ... " />
+            <marker date="1493936521066" expanded="true" signature="1941:2074" ph="/// Is true if the product is possible to buy if the user have no money on their account ... " />
+            <marker date="1493936521066" expanded="true" signature="2166:2457" ph="Public Methods" />
+            <marker date="1493936521066" expanded="true" signature="2198:2321" ph="/// Overridden ToString() method for a product ... " />
+            <marker date="1493936521066" expanded="true" signature="2363:2437" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/Products/SeasonalProduct.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding>
+            <marker date="1493936520930" expanded="true" signature="43:2037" ph="{...}" />
+            <marker date="1493936520930" expanded="true" signature="88:2035" ph="{...}" />
+            <marker date="1493936520930" expanded="true" signature="104:437" ph="Private Fields" />
+            <marker date="1493936520930" expanded="true" signature="136:226" ph="/// Validated date of the start of the season ... " />
+            <marker date="1493936520930" expanded="true" signature="278:368" ph="/// Validated date of the start of the season ... " />
+            <marker date="1493936520930" expanded="true" signature="447:1190" ph="Constructors" />
+            <marker date="1493936520930" expanded="true" signature="477:813" ph="/// Default Constructor ... " />
+            <marker date="1493936520930" expanded="true" signature="1028:1170" ph="{...}" />
+            <marker date="1493936520930" expanded="true" signature="1200:2029" ph="Public Properties" />
+            <marker date="1493936520930" expanded="true" signature="1235:1334" ph="/// The date of the start of the season of the product ... " />
+            <marker date="1493936520930" expanded="true" signature="1374:1628" ph="{...}" />
+            <marker date="1493936520930" expanded="true" signature="1445:1618" ph="{...}" />
+            <marker date="1493936520930" expanded="true" signature="1638:1720" ph="/// The date of the end of the season ... " />
+            <marker date="1493936520930" expanded="true" signature="1758:2009" ph="{...}" />
+            <marker date="1493936520930" expanded="true" signature="1827:1999" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/FileHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <marker date="1493936520986" expanded="true" signature="6:83" ph="..." />
+            <marker date="1493936520986" expanded="true" signature="113:2447" ph="{...}" />
+            <marker date="1493936520986" expanded="true" signature="144:2445" ph="{...}" />
+            <marker date="1493936520986" expanded="true" signature="159:312" ph="Private Members" />
+            <marker date="1493936520986" expanded="true" signature="192:258" ph="/// Path for the file ... " />
+            <marker date="1493936520986" expanded="true" signature="322:582" ph="Constructors" />
+            <marker date="1493936520986" expanded="true" signature="352:464" ph="/// Default Constructor ... " />
+            <marker date="1493936520986" expanded="true" signature="508:562" ph="{...}" />
+            <marker date="1493936520986" expanded="true" signature="592:801" ph="Public Properties" />
+            <marker date="1493936520986" expanded="true" signature="627:710" ph="/// Gets the number of lines in a file ... " />
+            <marker date="1493936520986" expanded="true" signature="811:1963" ph="Public Methods" />
+            <marker date="1493936520986" expanded="true" signature="843:1047" ph="/// Returns all lines of a file with each cell of the csv in an string[] Enumerable ... " />
+            <marker date="1493936520986" expanded="true" signature="1121:1213" ph="{...}" />
+            <marker date="1493936520986" expanded="true" signature="1223:1350" ph="/// Append a string to the end of a text file ... " />
+            <marker date="1493936520986" expanded="true" signature="1399:1487" ph="{...}" />
+            <marker date="1493936520986" expanded="true" signature="1497:1745" ph="/// Returns an Enumerable string array where each array have an instance of a given string ... " />
+            <marker date="1493936520986" expanded="true" signature="1832:1943" ph="{...}" />
+            <marker date="1493936520986" expanded="true" signature="1973:2439" ph="Private Methods" />
+            <marker date="1493936520986" expanded="true" signature="2006:2139" ph="/// Reads all line from a file into an string Enumerable ... " />
+            <marker date="1493936520986" expanded="true" signature="2196:2265" ph="{...}" />
+            <marker date="1493936520986" expanded="true" signature="2337:2411" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/StringCleaner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding>
+            <marker date="1493936521040" expanded="true" signature="6:56" ph="..." />
+            <marker date="1493936521040" expanded="true" signature="86:539" ph="{...}" />
+            <marker date="1493936521040" expanded="true" signature="126:537" ph="{...}" />
+            <marker date="1493936521040" expanded="true" signature="236:332" ph="{...}" />
+            <marker date="1493936521040" expanded="true" signature="416:531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1493936520901" expanded="true" signature="0:165" ph="/* Studienummer_fuldt_navn &lt;- her skriver du dit studienummer og fulde navn som kommentar. Det skal være det førs ... */" />
+            <marker date="1493936520901" expanded="true" signature="195:520" ph="{...}" />
+            <marker date="1493936520901" expanded="true" signature="215:518" ph="{...}" />
+            <marker date="1493936520901" expanded="true" signature="261:512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/StregsystemCLI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <marker date="1493935678488" expanded="true" signature="6:32" ph="..." />
+            <marker date="1493935678488" expanded="true" signature="62:6050" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="106:6048" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="121:453" ph="Private Members" />
+            <marker date="1493935678488" expanded="true" signature="154:273" ph="/// Is true if the program is running, turns false in &lt;see cref=&quot;Close&quot;/&gt;  ... " />
+            <marker date="1493935678488" expanded="true" signature="313:390" ph="/// Reference to the stregsystem ... " />
+            <marker date="1493935678488" expanded="true" signature="463:852" ph="Constructors" />
+            <marker date="1493935678488" expanded="true" signature="493:608" ph="/// Default Constructor ... " />
+            <marker date="1493935678488" expanded="true" signature="664:832" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="862:1053" ph="Events" />
+            <marker date="1493935678488" expanded="true" signature="886:979" ph="/// Event that is raised when command is entered ... " />
+            <marker date="1493935678488" expanded="true" signature="1063:5662" ph="Public Methods" />
+            <marker date="1493935678488" expanded="true" signature="1095:1225" ph="/// The start method keeps the system runnung and prints the menu and awaits commands ... " />
+            <marker date="1493935678488" expanded="true" signature="1253:1448" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="1458:1607" ph="/// Method that when called sets the running field to false and breaks the loop in &lt;see cref=&quot;Start()&quot;/&gt; ... " />
+            <marker date="1493935678488" expanded="true" signature="1666:1819" ph="/// Displays the message if the admin commmand was not found ... " />
+            <marker date="1493935678488" expanded="true" signature="1895:1991" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="2001:2136" ph="/// Display a general error in the terminal ... " />
+            <marker date="1493935678488" expanded="true" signature="2196:2283" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="2293:2530" ph="/// Display a message describing the buyer and the product that did not succeed because of insufficient cash  ... " />
+            <marker date="1493935678488" expanded="true" signature="2602:2732" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="2742:2889" ph="/// Displays a message of a product that could not be found ... " />
+            <marker date="1493935678488" expanded="true" signature="2948:3027" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="3037:3192" ph="/// Displays a message if two many arguments was given in a command ... " />
+            <marker date="1493935678488" expanded="true" signature="3257:3365" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="3375:3504" ph="/// Displays a succesfull transaction ... " />
+            <marker date="1493935678488" expanded="true" signature="3575:3658" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="3668:3865" ph="/// Displays a succesfull transaction and the amount of products ... " />
+            <marker date="1493935678488" expanded="true" signature="3947:4032" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="4042:4163" ph="/// Display information about a user ... " />
+            <marker date="1493935678488" expanded="true" signature="4210:4488" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="4498:4662" ph="/// Display a message showing if a user is not found and the given username ... " />
+            <marker date="1493935678488" expanded="true" signature="4719:4814" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="4824:4903" ph="/// Prints out all active products ... " />
+            <marker date="1493935678488" expanded="true" signature="4937:5276" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="5286:5457" ph="/// Displays  a message of the user balance ... " />
+            <marker date="1493935678488" expanded="true" signature="5531:5642" ph="{...}" />
+            <marker date="1493935678488" expanded="true" signature="5672:6042" ph="Protected Methods" />
+            <marker date="1493935678488" expanded="true" signature="5707:5893" ph="/// Method to invoke the command entered event (raise). Is checked for subscribers before invoking ... " />
+            <marker date="1493935678488" expanded="true" signature="5957:6022" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7200">
+          <caret line="200" column="22" lean-forward="false" selection-start-line="200" selection-start-column="22" selection-end-line="200" selection-end-column="22" />
+          <folding>
+            <marker date="1493936521011" expanded="true" signature="6:32" ph="..." />
+            <marker date="1493936521011" expanded="true" signature="62:7168" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="69:255" ph="/// The delegate for the User balance event ... " />
+            <marker date="1493936521011" expanded="true" signature="376:7166" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="391:1172" ph="Private members" />
+            <marker date="1493936521011" expanded="true" signature="424:498" ph="/// The static user id number ... " />
+            <marker date="1493936521011" expanded="true" signature="546:620" ph="/// Holds the private user ID ... " />
+            <marker date="1493936521011" expanded="true" signature="658:743" ph="/// The validated first name of the user ... " />
+            <marker date="1493936521011" expanded="true" signature="787:871" ph="/// The validated last name of the user ... " />
+            <marker date="1493936521011" expanded="true" signature="914:998" ph="/// The validated user name of the user ... " />
+            <marker date="1493936521011" expanded="true" signature="1041:1121" ph="/// The validated email of the user ... " />
+            <marker date="1493936521011" expanded="true" signature="1182:1832" ph="Constructors" />
+            <marker date="1493936521011" expanded="true" signature="1212:1497" ph="/// Default Constructor ... " />
+            <marker date="1493936521011" expanded="true" signature="1600:1812" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="1842:3824" ph="Public Properties" />
+            <marker date="1493936521011" expanded="true" signature="1877:1957" ph="/// The property to get the user id ... " />
+            <marker date="1493936521011" expanded="true" signature="2005:2099" ph="/// Property validating first name to not be null ... " />
+            <marker date="1493936521011" expanded="true" signature="2131:2400" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="2196:2390" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="2410:2504" ph="/// Property validating first name to not be null ... " />
+            <marker date="1493936521011" expanded="true" signature="2535:2802" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="2599:2792" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="2812:2894" ph="/// Property validating the user name ... " />
+            <marker date="1493936521011" expanded="true" signature="2925:3235" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="2989:3225" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="3245:3370" ph="/// Holds the email of the user validates by &lt;see cref=&quot;IsEmailValid(string)&quot;/&gt;  ... " />
+            <marker date="1493936521011" expanded="true" signature="3398:3651" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="3459:3641" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="3661:3759" ph="/// Property handling access to the money of the user ... " />
+            <marker date="1493936521011" expanded="true" signature="3834:4952" ph="Public Methods" />
+            <marker date="1493936521011" expanded="true" signature="3866:3999" ph="/// Overriden to string method ... " />
+            <marker date="1493936521011" expanded="true" signature="4041:4117" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="4127:4270" ph="/// Overriden Equals method ... " />
+            <marker date="1493936521011" expanded="true" signature="4318:4500" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="4510:4619" ph="/// Overriden GetHashCode method ... " />
+            <marker date="1493936521011" expanded="true" signature="4696:4856" ph="/// Compares users to eachother by user id ... " />
+            <marker date="1493936521011" expanded="true" signature="4962:7160" ph="Private Methods" />
+            <marker date="1493936521011" expanded="true" signature="4995:5262" ph="/// Divides email into local-part and domain, and calls &lt;see cref=&quot;IsLocalPartValid(string)&quot;/&gt; and &lt;see cref=&quot;IsD ... " />
+            <marker date="1493936521011" expanded="true" signature="5310:5538" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="5548:5838" ph="/// Validates the local part of the email and returns false if it is not lower case,  ... " />
+            <marker date="1493936521011" expanded="true" signature="5894:6016" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="6026:6393" ph="/// Validates the local part of the email and returns false if it is not lower case, ... " />
+            <marker date="1493936521011" expanded="true" signature="6443:6763" ph="{...}" />
+            <marker date="1493936521011" expanded="true" signature="6773:7022" ph="/// Method that valuates a given character upon different parameters of characters ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/Transactions/InsertCashTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493936520956" expanded="true" signature="28:996" ph="{...}" />
+            <marker date="1493936520956" expanded="true" signature="83:994" ph="{...}" />
+            <marker date="1493936520956" expanded="true" signature="98:487" ph="Constructors" />
+            <marker date="1493936520956" expanded="true" signature="128:247" ph="/// Default Constructor ... " />
+            <marker date="1493936520956" expanded="true" signature="400:467" ph="{...}" />
+            <marker date="1493936520956" expanded="true" signature="497:988" ph="Public Methods" />
+            <marker date="1493936520956" expanded="true" signature="529:626" ph="/// Method that executes the insert cash transaction ... " />
+            <marker date="1493936520956" expanded="true" signature="665:732" ph="{...}" />
+            <marker date="1493936520956" expanded="true" signature="742:849" ph="/// Overriden To string method ... " />
+            <marker date="1493936520956" expanded="true" signature="891:968" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Eksamensopgave2017/Stregsystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="205" column="47" lean-forward="true" selection-start-line="205" selection-start-column="47" selection-end-line="205" selection-end-column="47" />
+          <folding>
+            <marker date="1493936517348" expanded="true" signature="6:66" ph="..." />
+            <marker date="1493936517348" expanded="true" signature="96:7931" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="103:228" ph="/// Delegate for the command typed in by the user ... " />
+            <marker date="1493936517348" expanded="true" signature="329:7929" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="344:1267" ph="Private Members" />
+            <marker date="1493936517348" expanded="true" signature="377:453" ph="/// List of users in the system ... " />
+            <marker date="1493936517348" expanded="true" signature="522:601" ph="/// List of products in the system ... " />
+            <marker date="1493936517348" expanded="true" signature="679:776" ph="/// List of all transactions conducted in the System ... " />
+            <marker date="1493936517348" expanded="true" signature="865:948" ph="/// Hold an instance of a product file ... " />
+            <marker date="1493936517348" expanded="true" signature="999:1079" ph="/// Hold an instance of a user file ... " />
+            <marker date="1493936517348" expanded="true" signature="1127:1201" ph="/// Log file for transactions ... " />
+            <marker date="1493936517348" expanded="true" signature="1277:1743" ph="Constructors" />
+            <marker date="1493936517348" expanded="true" signature="1307:1375" ph="/// Default Constructor ... " />
+            <marker date="1493936517348" expanded="true" signature="1404:1715" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="1753:1999" ph="Public Properties" />
+            <marker date="1493936517348" expanded="true" signature="1788:1887" ph="/// Enumerable containing all products that are active ... " />
+            <marker date="1493936517348" expanded="true" signature="2009:2219" ph="Events" />
+            <marker date="1493936517348" expanded="true" signature="2033:2134" ph="/// The event to be raised if the user has a low balance ... " />
+            <marker date="1493936517348" expanded="true" signature="2229:5181" ph="Public Methods" />
+            <marker date="1493936517348" expanded="true" signature="2261:2478" ph="/// Takes a user and an amount and returns the transaction ... " />
+            <marker date="1493936517348" expanded="true" signature="2558:2787" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="2797:3016" ph="/// Takes a user and a product and returns a BuyTransaction ... " />
+            <marker date="1493936517348" expanded="true" signature="3085:3393" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="3403:3574" ph="/// Returns a product when receiving a product ID ... " />
+            <marker date="1493936517348" expanded="true" signature="3627:3856" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="3866:4112" ph="/// Returns a enumerable of transactions of a user and a specified number of transaction ... " />
+            <marker date="1493936517348" expanded="true" signature="4190:4399" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="4409:4582" ph="/// By giving a usre name the methods returns a user ... " />
+            <marker date="1493936517348" expanded="true" signature="4637:4839" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="4849:5026" ph="/// Returns a user that lives up to the given predicate ... " />
+            <marker date="1493936517348" expanded="true" signature="5082:5161" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="5191:7923" ph="Private Methods" />
+            <marker date="1493936517348" expanded="true" signature="5224:5348" ph="/// Executes a given transaction ... " />
+            <marker date="1493936517348" expanded="true" signature="5413:5725" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="5439:5506" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="5555:5606" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="5735:5951" ph="/// Gets the products from a file and fill them into a list ... " />
+            <marker date="1493936517348" expanded="true" signature="5994:6370" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="6380:6584" ph="/// Takes an array of product information and returns a list of product objects ... " />
+            <marker date="1493936517348" expanded="true" signature="6677:6967" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="6977:7177" ph="/// Gets the products from a file an fill them into a list. ... " />
+            <marker date="1493936517348" expanded="true" signature="7218:7489" ph="{...}" />
+            <marker date="1493936517348" expanded="true" signature="7499:7697" ph="/// Takes an array of product information and returns a list of user objects ... " />
+            <marker date="1493936517348" expanded="true" signature="7777:7903" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
